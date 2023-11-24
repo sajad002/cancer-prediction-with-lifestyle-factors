@@ -2,6 +2,34 @@
 
 This project aims to develop a predictive model for cancer level based on lifestyle factors. The project was implemented using Jupyter Notebook and is divided into three phases:
 
+## Factors Included in Processing
+
+| Factor | Description |
+|---|---|
+| Age | Age of the individual |
+| Gender | Gender of the individual |
+| Air Pollution | Exposure to air pollution |
+| Alcohol use | Alcohol consumption |
+| Dust Allergy | Presence of dust allergy |
+| Occupational Hazards | Exposure to occupational hazards |
+| Genetic Risk | Family history of cancer |
+| Chronic Lung Disease | Pre-existing chronic lung disease |
+| Balanced Diet | Adherence to a balanced diet |
+| Obesity | Body mass index (BMI) |
+| Smoking | Smoking habits |
+| Passive Smoker | Exposure to secondhand smoke |
+| Chest Pain | Experience of chest pain |
+| Coughing of Blood | Coughing up blood |
+| Fatigue | Persistent fatigue |
+| Weight Loss | Unexplained weight loss |
+| Shortness of Breath | Difficulty breathing |
+| Wheezing | Wheezing sound while breathing |
+| Swallowing Difficulty | Difficulty swallowing |
+| Clubbing of Finger Nails | Clubbing of fingernails |
+| Frequent Cold | Frequent occurrence of colds |
+| Dry Cough | Dry cough that persists for several weeks |
+| Snoring | Habitual snoring |
+
 ## Phase 1: Data Preprocessing
 
 ### Tasks
@@ -44,9 +72,11 @@ This project aims to develop a predictive model for cancer level based on lifest
 ## Installation
 
 1. Install the required libraries using pip:
-    ```bash
-    pip install tensorflow scikit-learn nltk mlxtend
-    
+
+   ```bash
+   pip install tensorflow scikit-learn 
+   
+
 2. Launch Jupyter Notebook and open the project's Jupyter Notebook file.
 
 ## Usage
@@ -61,7 +91,3 @@ This project aims to develop a predictive model for cancer level based on lifest
 ## Contributing
 
 Contributions are welcome! Please fork the repository, make your changes, and create a pull request.
-
-## License
-
-MIT License
