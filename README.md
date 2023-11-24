@@ -42,6 +42,34 @@ This project aims to develop a predictive model for cancer level based on lifest
 6. Convert numerical data to categorical data if necessary
 7. Conduct a series of statistical comparisons based on the dataset
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="histogram_data_distribution.png" alt="histogram_data_distribution" width="400">
+      <br>
+      Histogram data distribution
+    </td>
+    <td align="center">
+      <img src="level_distribution_age.png" alt="level_distribution_age" width="400">
+      <br>
+      Level distribution age
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="box_plot_all_datas_befor_drop.png" alt="box_plot_all_datas_befor_drop" width="400">
+      <br>
+      Boxplot all datas before drop
+    </td>
+    <td align="center">
+      <img src="box_plot_all_datas_after_drop.png" alt="box_plot_all_datas_after_drop" width="400">
+      <br>
+      Boxplot all datas after drop
+    </td>
+  </tr>
+</table>
+  
+
 ## Phase 2: Extracting Frequent Patterns
 
 ### Tasks
