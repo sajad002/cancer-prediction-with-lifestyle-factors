@@ -1,8 +1,8 @@
 # Cancer Prediction with Lifestyle Factors
 
-This project aims to develop a predictive model for cancer level based on lifestyle factors. The project was implemented using Jupyter Notebook and is divided into three phases:
+This project aims to develop a predictive model for cancer level based on lifestyle factors. 
 
-## Factors Included in Processing
+### Factors Included in Processing
 
 | Factor | Description |
 |---|---|
@@ -29,6 +29,9 @@ This project aims to develop a predictive model for cancer level based on lifest
 | Frequent Cold | Frequent occurrence of colds |
 | Dry Cough | Dry cough that persists for several weeks |
 | Snoring | Habitual snoring |
+
+
+The project was implemented using Jupyter Notebook and is divided into three phases:
 
 ## Phase 1: Data Preprocessing
 
