@@ -12,8 +12,7 @@ This project aims to develop a predictive model for cancer level based on lifest
 4. Identify and remove outliers for numerical data
 5. Perform data reduction if necessary
 6. Convert numerical data to categorical data if necessary
-7. Perform stemming, lemmatizing, and stop-word removal for text data if necessary
-8. Conduct a series of statistical comparisons based on the dataset
+7. Conduct a series of statistical comparisons based on the dataset
 
 ## Phase 2: Extracting Frequent Patterns
 
@@ -30,11 +29,10 @@ This project aims to develop a predictive model for cancer level based on lifest
 
 1. Import necessary libraries
 2. Load the clean dataset obtained from Phase 1
-3. Transform clean text data into vectors using BERT if data is text-based
-4. Perform clustering on the dataset using appropriate algorithms
-5. Implement classification based on the defined classification problem for each group
-6. Evaluate the performance of the classification model
-7. Reserve a portion of the dataset for testing the implemented classification
+3. Perform clustering on the dataset using appropriate algorithms
+4. Implement classification based on the defined classification problem for each group
+5. Evaluate the performance of the classification model
+6. Reserve a portion of the dataset for testing the implemented classification
 
 ## Requirements
 
@@ -42,9 +40,6 @@ This project aims to develop a predictive model for cancer level based on lifest
 * Python
 * TensorFlow
 * scikit-learn
-* nltk (for text preprocessing)
-* mlxtend (for frequent pattern mining)
-* Hugging Face or sentence-transformers (for BERT text embedding)
 
 ## Installation
 
@@ -52,14 +47,16 @@ This project aims to develop a predictive model for cancer level based on lifest
     ```bash
     pip install tensorflow scikit-learn nltk mlxtend
     
-
-2. For Hugging Face or sentence-transformers, follow their respective installation instructions.
-
-3. Launch Jupyter Notebook and open the project's Jupyter Notebook file.
+2. Launch Jupyter Notebook and open the project's Jupyter Notebook file.
 
 ## Usage
 
 1. Execute the Jupyter Notebook cells to perform data preprocessing, feature extraction, model training, and evaluation.
+
+## Project Authors
+
+- [Sajjad Shaffaf](https://github.com/sajad002)
+- [Jawad Moqaddam](https://github.com/JavadMoghaddam)
 
 ## Contributing
 
