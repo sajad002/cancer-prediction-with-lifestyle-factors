@@ -66,22 +66,11 @@ This project aims to develop a predictive model for cancer level based on lifest
 
 * Jupyter Notebook
 * Python
-* TensorFlow
 * scikit-learn
-
-## Installation
-
-1. Install the required libraries using pip:
-
-   ```bash
-   pip install tensorflow scikit-learn 
-   
-
-2. Launch Jupyter Notebook and open the project's Jupyter Notebook file.
-
+  
 ## Usage
 
-1. Execute the Jupyter Notebook cells to perform data preprocessing, feature extraction, model training, and evaluation.
+* Execute the Jupyter Notebook cells to perform data preprocessing, feature extraction, model training, and evaluation.
 
 ## Project Authors
 
